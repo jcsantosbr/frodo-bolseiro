@@ -1,1 +1,4 @@
 .idea
+.lein*
+target/
+*.log

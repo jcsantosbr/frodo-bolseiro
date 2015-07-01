@@ -10,7 +10,7 @@
 (defonce server (atom nil))
 
 (defn parse-port [[port]]
-  (Integer/parseInt (or port (env "OPENSHIFT_CLOJURE_HTTP_PORT") "3000")))
+  (Integer/parseInt (get (System/getenv) "OPENSHIFT_CLOJURE_HTTP_PORT" "3000")))
 
 (defn start-server [port]
   (init)
