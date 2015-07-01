@@ -1,0 +1,2 @@
+;; Analyzed by ClojureScript 0.0-3308
+{:name frodo-webapi.app, :doc nil, :excludes #{}, :use-macros nil, :require-macros {figwheel figwheel.client, figwheel.client figwheel.client}, :uses nil, :requires {core frodo-webapi.core, frodo-webapi.core frodo-webapi.core, figwheel figwheel.client, figwheel.client figwheel.client}, :imports nil, :cljs.analyzer/constants {:seen #{:jsload-callback :websocket-url}, :order [:websocket-url :jsload-callback]}}
