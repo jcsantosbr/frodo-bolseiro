@@ -27,4 +27,4 @@ Endpoints:
     Backend: ''
     Options:
       websocket: false
-Source-Url: https://github.com/openshift-cartridges/clojure-cartridge/archive/master.zip
+Source-Url: https://github.com/jcsantosbr/clojure-cartridge/archive/v1.0.zip
