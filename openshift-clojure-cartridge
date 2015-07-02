@@ -2,7 +2,7 @@ Name: clojure
 Cartridge-Short-Name: CLOJURE
 Cartridge-Version: 0.0.1
 Cartridge-Vendor: mjelen
-Display-Name: Clojure (1.5.1)
+Display-Name: Clojure (1.7.0)
 Description: Clojure is a dynamic programming language that targets the Java Virtual
   Machine (and the CLR, and JavaScript).
 Version: 1.7.0
@@ -27,4 +27,4 @@ Endpoints:
     Backend: ''
     Options:
       websocket: false
-Source-Url: https://github.com/jcsantosbr/clojure-cartridge/archive/v1.0.zip
+Source-Url: https://github.com/jcsantosbr/clojure-cartridge/archive/v1.1.zip
